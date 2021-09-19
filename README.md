@@ -33,5 +33,10 @@ Metric: Cross valid accuracy
 Random Forest model has the highest accuracy.
 
 ### Deployment
-Medium Link: 
+Medium Link: https://medium.com/@angelazhaoanqi59/grad-school-admission-here-it-is-491cf2ee9127
+
+Installation
+- Python3
+- NumPy, Pandas, Matplotlib, Seaborn
+- scikit-learn
 
